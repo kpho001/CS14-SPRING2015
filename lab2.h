@@ -1,3 +1,7 @@
+//Karen Pho
+//SID: 861103904
+//April 19, 2015
+
 #ifndef _LAB2_H
 #define _LAB2_H
 #include <iostream>

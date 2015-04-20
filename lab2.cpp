@@ -1,3 +1,7 @@
+//Karen Pho
+//SID: 861103904
+//April 19, 2015
+
 #include "lab2.h"
 #include <iostream>
 #include <forward_list>
